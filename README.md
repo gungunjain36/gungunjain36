@@ -2,7 +2,7 @@
 
 # About Me:
 - Hi I’m Gungun Jain, a 3rd year undergrad from NITK!
-- I’m interested in Fullstack Development, AI/ML, DevOps.
+- I’m interested in Fullstack Development, DevOps, Web3.
 - I’m currently learning NextJS, Docker, Kubernetes, DevOps & Backend Development!
 - You can always reach out to me through the mail @ gungunjainxia@gmail.com
 
