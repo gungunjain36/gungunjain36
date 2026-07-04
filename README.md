@@ -18,5 +18,3 @@ I'm an AI/ML engineer who builds agentic systems, LLM tooling, and retrieval pip
 [Portfolio](https://gungun-jain-xia.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/gungunjain36/) · [X](https://x.com/gunnjainn)
 
 ---
-
-![Gungun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gungunjain36&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
